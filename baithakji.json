@@ -1,21 +1,22 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "name": "Govindghat", "lat": 27.4402643, "long": 77.7131976, "title": "Govindghat", "description": "ta ta ta" }, "geometry": { "type": "Point", "coordinates": [ 77.7131976, 27.4402643 ] } },
-{ "type": "Feature", "properties": { "name": "Badi Bhitar Baithak", "lat": 27.4367551, "long": 77.721315, "title": "Badi Bhitar Baithak", "description": "ba bababa" }, "geometry": { "type": "Point", "coordinates": [ 77.721315, 27.4367551 ] } },
-{ "type": "Feature", "properties": { "name": "Shayya Mandir", "lat": 27.4367551, "long": 77.721315, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.721315, 27.4367551 ] } },
-{ "type": "Feature", "properties": { "name": "Bansivat", "lat": 27.5861957, "long": 77.7012563, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.7012563, 27.5861957 ] } },
-{ "type": "Feature", "properties": { "name": "Vishramghat", "lat": 27.5043082, "long": 77.6848244, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.6848244, 27.5043082 ] } },
-{ "type": "Feature", "properties": { "name": "Madhuvan", "lat": 27.461028, "long": 77.6458096, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.6458096, 27.461028 ] } },
-{ "type": "Feature", "properties": { "name": "Kumodvan", "lat": 27.4986057, "long": 77.6262344, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.6262344, 27.4986057 ] } },
-{ "type": "Feature", "properties": { "name": "Bahulavan", "lat": 27.5363703, "long": 77.598623, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.598623, 27.5363703 ] } },
-{ "type": "Feature", "properties": { "name": "Radhakrishna Kund", "lat": 27.525451, "long": 77.4920597, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.4920597, 27.525451 ] } },
-{ "type": "Feature", "properties": { "name": "Mansiganga", "lat": 27.4983071, "long": 77.4640286, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.4640286, 27.4983071 ] } },
-{ "type": "Feature", "properties": { "name": "Parasoli", "lat": 27.4784009, "long": 77.4679575, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.4679575, 27.4784009 ] } },
-{ "type": "Feature", "properties": { "name": "Anyor", "lat": 27.4682806, "long": 77.4389534, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.4389534, 27.4682806 ] } },
-{ "type": "Feature", "properties": { "name": "Govindkund", "lat": 27.4685485, "long": 77.4403331, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.4403331, 27.4685485 ] } },
-{ "type": "Feature", "properties": { "name": "Sundershila", "lat": 27.4746716, "long": 77.4392222, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.4392222, 27.4746716 ] } },
-{ "type": "Feature", "properties": { "name": "Govardhan hill", "lat": 27.47374, "long": 77.443843, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.443843, 27.47374 ] } },
-{ "type": "Feature", "properties": { "name": "Kamvan", "lat": 27.6627627, "long": 77.2579813, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.2579813, 27.6627627 ] } }
+{ "type": "Feature", "properties": { "name": "Kamvan", "lat": 27.6627627, "long": 77.2579813, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.2579813, 27.6627627 ] } },
+{ "type": "Feature", "properties": { "name": "Ghewarvan", "lat": 27.6470532, "long": 77.3670194, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.3670194, 27.6470532 ] } },
+{ "type": "Feature", "properties": { "name": "Sanketvan", "lat": 27.6468931, "long": 77.3674822, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.3674822, 27.6468931 ] } },
+{ "type": "Feature", "properties": { "name": "Nandgam", "lat": 27.7110986, "long": 77.3833132, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.3833132, 27.7110986 ] } },
+{ "type": "Feature", "properties": { "name": "Kokilavan", "lat": 27.7488828, "long": 77.3923169, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.3923169, 27.7488828 ] } },
+{ "type": "Feature", "properties": { "name": "Bhandirvan", "lat": 27.6908423, "long": 77.7091363, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.7091363, 27.6908423 ] } },
+{ "type": "Feature", "properties": { "name": "Mansarovar (Makhan)", "lat": 27.6294361, "long": 77.7108005, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.7108005, 27.6294361 ] } },
+{ "type": "Feature", "properties": { "name": "Sukar kshetra (Soramji\/Sauroji)", "lat": 27.8826428, "long": 78.7387769, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 78.7387769, 27.8826428 ] } },
+{ "type": "Feature", "properties": { "name": "Chitrakut", "lat": 25.1793371, "long": 80.8647833, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 80.8647833, 25.1793371 ] } },
+{ "type": "Feature", "properties": { "name": "Ayodhya", "lat": 26.7898124, "long": 82.1816582, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 82.1816582, 26.7898124 ] } },
+{ "type": "Feature", "properties": { "name": "Naimisharanya", "lat": 27.3447887, "long": 80.4842685, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 80.4842685, 27.3447887 ] } },
+{ "type": "Feature", "properties": { "name": "Kashi-1", "lat": 25.3070813, "long": 83.0013688, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 83.0013688, 25.3070813 ] } },
+{ "type": "Feature", "properties": { "name": "Kashi-2", "lat": 25.297326, "long": 83.0067817, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 83.0067817, 25.297326 ] } },
+{ "type": "Feature", "properties": { "name": "Harihar Kshetra (Sonpur) Baithakji Hajipur", "lat": 25.6812089, "long": 85.2028975, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 85.2028975, 25.6812089 ] } },
+{ "type": "Feature", "properties": { "name": "Janakpur", "lat": 28.6156586, "long": 79.0722803, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 79.0722803, 28.6156586 ] } },
+{ "type": "Feature", "properties": { "name": "Gangasagar Sangam", "lat": 21.6384753, "long": 88.0668253, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 88.0668253, 21.6384753 ] } },
+{ "type": "Feature", "properties": { "name": "Champaranya", "lat": 21.0318612, "long": 81.92318, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 81.92318, 21.0318612 ] } }
 ]
 }
