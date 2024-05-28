@@ -32,6 +32,6 @@
 { "type": "Feature", "properties": { "name": "Harihar Kshetra (Sonpur) Baithakji Hajipur", "lat": 25.6812089, "long": 85.2028975, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 85.2028975, 25.6812089 ] } },
 { "type": "Feature", "properties": { "name": "Janakpur", "lat": 28.6156586, "long": 79.0722803, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 79.0722803, 28.6156586 ] } },
 { "type": "Feature", "properties": { "name": "Gangasagar Sangam", "lat": 21.6384753, "long": 88.0668253, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 88.0668253, 21.6384753 ] } },
-{ "type": "Feature", "properties": { "name": "Champaranya", "lat": 21.0318612, "long": 81.92318, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 81.92318, 21.0318612 ] } },
+{ "type": "Feature", "properties": { "name": "Champaranya", "lat": 21.0318612, "long": 81.92318, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 81.92318, 21.0318612 ] } }
 ]
 }
