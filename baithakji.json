@@ -1,18 +1,17 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "name": "Padmanabh", "lat": 8.4827832, "long": 76.9414019, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 76.9414019, 8.4827832 ] } },
-{ "type": "Feature", "properties": { "name": "Janardan Kshetra", "lat": 8.7352447, "long": 76.7125407, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 76.7125407, 8.7352447 ] } },
-{ "type": "Feature", "properties": { "name": "Vidyanagar", "lat": 15.3343429, "long": 76.459547, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 76.459547, 15.3343429 ] } },
-{ "type": "Feature", "properties": { "name": "Totadri", "lat": 8.500155, "long": 77.6426009, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 77.6426009, 8.500155 ] } },
-{ "type": "Feature", "properties": { "name": "Darvasen", "lat": 9.3639, "long": 78.8395, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 78.8395, 9.3639 ] } },
-{ "type": "Feature", "properties": { "name": "Surat", "lat": 21.2234606, "long": 72.8492433, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8492433, 21.2234606 ] } },
-{ "type": "Feature", "properties": { "name": "Bharuch", "lat": 21.699705, "long": 72.9876113, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 72.9876113, 21.699705 ] } },
-{ "type": "Feature", "properties": { "name": "Morbi", "lat": 22.8166199, "long": 70.8433283, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 70.8433283, 22.8166199 ] } },
-{ "type": "Feature", "properties": { "name": "Jamnagar", "lat": 22.4584942, "long": 70.0932983, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 70.0932983, 22.4584942 ] } },
-{ "type": "Feature", "properties": { "name": "Jamkhambhaliya", "lat": 22.341486, "long": 69.7427192, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 69.7427192, 22.341486 ] } },
-{ "type": "Feature", "properties": { "name": "Pindtarak", "lat": 22.2530392, "long": 69.2468922, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 69.2468922, 22.2530392 ] } },
-{ "type": "Feature", "properties": { "name": "Mul Gomti", "lat": 22.2375312, "long": 68.9707322, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 68.9707322, 22.2375312 ] } },
-{ "type": "Feature", "properties": { "name": "Harikund, Dwarka", "lat": 22.2370758, "long": 68.9674102, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 68.9674102, 22.2370758 ] } }
+{ "type": "Feature", "properties": { "name": "Gopi Talav", "lat": 22.369844, "long": 69.1064658, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 69.1064658, 22.369844 ] } },
+{ "type": "Feature", "properties": { "name": "Bet Shankhoddhar", "lat": 22.4549673, "long": 69.1016798, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 69.1016798, 22.4549673 ] } },
+{ "type": "Feature", "properties": { "name": "Narayan Sarovar", "lat": 23.677255, "long": 68.5410887, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 68.5410887, 23.677255 ] } },
+{ "type": "Feature", "properties": { "name": "Junagadh", "lat": 21.5255011, "long": 70.4864712, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 70.4864712, 21.5255011 ] } },
+{ "type": "Feature", "properties": { "name": "Prabhas (Somnath)", "lat": 20.8874624, "long": 70.4133671, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 70.4133671, 20.8874624 ] } },
+{ "type": "Feature", "properties": { "name": "Madhavpur", "lat": 21.2566044, "long": 69.959072, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 69.959072, 21.2566044 ] } },
+{ "type": "Feature", "properties": { "name": "Gupta Prayag (Junagadh)", "lat": 20.7832205, "long": 71.019781, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 71.019781, 20.7832205 ] } },
+{ "type": "Feature", "properties": { "name": "Tagadi", "lat": 22.296772, "long": 71.9441323, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 71.9441323, 22.296772 ] } },
+{ "type": "Feature", "properties": { "name": "Naroda", "lat": 23.0723953, "long": 72.6496035, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 72.6496035, 23.0723953 ] } },
+{ "type": "Feature", "properties": { "name": "Godhra", "lat": 22.7708315, "long": 73.6075422, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 73.6075422, 22.7708315 ] } },
+{ "type": "Feature", "properties": { "name": "Kheralu", "lat": 23.8853129, "long": 72.6162293, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 72.6162293, 23.8853129 ] } },
+{ "type": "Feature", "properties": { "name": "Siddhpur", "lat": 23.9108773, "long": 72.3639957, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 72.3639957, 23.9108773 ] } }
 ]
 }
