@@ -1,17 +1,16 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "name": "Gopi Talav", "lat": 22.369844, "long": 69.1064658, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 69.1064658, 22.369844 ] } },
-{ "type": "Feature", "properties": { "name": "Bet Shankhoddhar", "lat": 22.4549673, "long": 69.1016798, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 69.1016798, 22.4549673 ] } },
-{ "type": "Feature", "properties": { "name": "Narayan Sarovar", "lat": 23.677255, "long": 68.5410887, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 68.5410887, 23.677255 ] } },
-{ "type": "Feature", "properties": { "name": "Junagadh", "lat": 21.5255011, "long": 70.4864712, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 70.4864712, 21.5255011 ] } },
-{ "type": "Feature", "properties": { "name": "Prabhas (Somnath)", "lat": 20.8874624, "long": 70.4133671, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 70.4133671, 20.8874624 ] } },
-{ "type": "Feature", "properties": { "name": "Madhavpur", "lat": 21.2566044, "long": 69.959072, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 69.959072, 21.2566044 ] } },
-{ "type": "Feature", "properties": { "name": "Gupta Prayag (Junagadh)", "lat": 20.7832205, "long": 71.019781, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 71.019781, 20.7832205 ] } },
-{ "type": "Feature", "properties": { "name": "Tagadi", "lat": 22.296772, "long": 71.9441323, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 71.9441323, 22.296772 ] } },
-{ "type": "Feature", "properties": { "name": "Naroda", "lat": 23.0723953, "long": 72.6496035, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 72.6496035, 23.0723953 ] } },
-{ "type": "Feature", "properties": { "name": "Godhra", "lat": 22.7708315, "long": 73.6075422, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 73.6075422, 22.7708315 ] } },
-{ "type": "Feature", "properties": { "name": "Kheralu", "lat": 23.8853129, "long": 72.6162293, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 72.6162293, 23.8853129 ] } },
-{ "type": "Feature", "properties": { "name": "Siddhpur", "lat": 23.9108773, "long": 72.3639957, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 72.3639957, 23.9108773 ] } }
+{ "type": "Feature", "properties": { "name": "Avantikapuri (Ujjain)", "lat": 23.2113032, "long": 75.7800758, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 75.7800758, 23.2113032 ] } },
+{ "type": "Feature", "properties": { "name": "Pushkar", "lat": 26.485931, "long": 74.5504227, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 74.5504227, 26.485931 ] } },
+{ "type": "Feature", "properties": { "name": "Mahabharat", "lat": 29.9797026, "long": 76.8307196, "title": "", "description": "lorem ipsum" }, "geometry": { "type": "Point", "coordinates": [ 76.8307196, 29.9797026 ] } },
+{ "type": "Feature", "properties": { "name": "Haridwar", "lat": 29.951791, "long": 78.1642474, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 78.1642474, 29.951791 ] } },
+{ "type": "Feature", "properties": { "name": "Badrikashram", "lat": 30.744738, "long": 79.4894206, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 79.4894206, 30.744738 ] } },
+{ "type": "Feature", "properties": { "name": "Kedarnath", "lat": 30.7352821, "long": 79.0654064, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 79.0654064, 30.7352821 ] } },
+{ "type": "Feature", "properties": { "name": "Vyas Ashram", "lat": 30.7352821, "long": 79.0654064, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 79.0654064, 30.7352821 ] } },
+{ "type": "Feature", "properties": { "name": "Himachal Parvat", "lat": 32.4122, "long": 75.9797, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 75.9797, 32.4122 ] } },
+{ "type": "Feature", "properties": { "name": "Vyas Ganga", "lat": 29.90632, "long": 78.67389, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 78.67389, 29.90632 ] } },
+{ "type": "Feature", "properties": { "name": "Arail (Prayag)\/Adel", "lat": 25.4024741, "long": 81.8859162, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 81.8859162, 25.4024741 ] } },
+{ "type": "Feature", "properties": { "name": "Charnat", "lat": 25.1121481, "long": 82.8778328, "title": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 82.8778328, 25.1121481 ] } }
 ]
 }
